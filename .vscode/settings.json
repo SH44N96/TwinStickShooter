@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/SHAAN/Desktop/Unreal Engine/TwinStickShooter/.git": true,
+		"C:/Users/SHAAN/Desktop/Unreal Engine/TwinStickShooter/.vscode": true,
+		"C:/Users/SHAAN/Desktop/Unreal Engine/TwinStickShooter/Content": true,
+		"C:/Users/SHAAN/Desktop/Unreal Engine/TwinStickShooter/Intermediate": true,
+		"C:/Users/SHAAN/Desktop/Unreal Engine/TwinStickShooter/Saved": true
+	}
+}
