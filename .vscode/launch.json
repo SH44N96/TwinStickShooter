@@ -5,114 +5,114 @@
 			"name": "TwinStickShooter (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooter Win64 Debug Build",
-			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\TwinStickShooter-Win64-Debug.exe",
+			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooter (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooter Win64 DebugGame Build",
-			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\TwinStickShooter-Win64-DebugGame.exe",
+			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooter (Development)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooter Win64 Development Build",
-			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\TwinStickShooter.exe",
+			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooter (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooter Win64 Shipping Build",
-			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\TwinStickShooter-Win64-Shipping.exe",
+			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooter (Test)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooter Win64 Test Build",
-			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\TwinStickShooter-Win64-Test.exe",
+			"program": "C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooterEditor (Debug)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooterEditor Win64 Debug Build",
-			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
 				"C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\TwinStickShooter.uproject"
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooterEditor (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooterEditor Win64 DebugGame Build",
-			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
 				"C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\TwinStickShooter.uproject"
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "TwinStickShooterEditor (Development)",
 			"request": "launch",
 			"preLaunchTask": "TwinStickShooterEditor Win64 Development Build",
-			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
 				"C:\\Users\\SHAAN\\Desktop\\Unreal Engine\\TwinStickShooter\\TwinStickShooter.uproject"
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "clr",
 			"request": "launch",
-			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.23\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
 			"console": "externalTerminal",
 			"args": [
 				"-projectfiles",
@@ -122,7 +122,7 @@
 				"-engine"
 			],
 			"internalConsoleOptions": "openOnSessionStart",
-			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22"
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.23"
 		}
 	]
 }
